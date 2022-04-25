@@ -64,8 +64,8 @@ scrollReveal.reveal(
 footer .brand, footer .social
 `,
   { interval: 10 }
-)
- */
+) */
+
 /* BACK-TO-TOP */
 function backToTop() {
   if (window.scrollY >= 560) {
